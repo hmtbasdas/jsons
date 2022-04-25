@@ -1,0 +1,22 @@
+{
+	"adverts": [
+		{
+			"adName": "Yaşlı ve Hasta Bakıcısı"
+		},
+		{
+			"adName": "Bebek ve Çocuk Bakıcısı"
+		},
+		{
+			"adName": "Oyun Ablası"
+		},
+		{
+			"adName": "Oyun Abisi"
+		},
+		{
+			"adName": "Ev Yardımcısı"
+		},
+		{
+			"adName": "Özel Ders"
+		}
+	]
+}
